@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using DIO.Cadastro.Interfaces;
-namespace DIO.Cadastro.Classes
+
+namespace DIO.Cadastro
 {
 	public class SerieRepositorio : IRepositorio<Serie>
 	{

@@ -1,6 +1,5 @@
 ﻿using System;
-
-namespace DIO.Series
+namespace DIO.Cadastro
 {
     class Program
     {
