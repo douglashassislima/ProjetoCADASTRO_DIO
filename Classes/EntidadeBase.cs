@@ -1,7 +1,7 @@
-namespace DIO.Cadastro.Classes
+namespace DIO.Cadastro
 {
-    public class Entidade base 
+    public abstract class EntidadeBase
     {
-        
+        public int Id { get; protected set; } 
     }
 }
